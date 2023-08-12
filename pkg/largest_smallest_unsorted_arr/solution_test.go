@@ -1,4 +1,4 @@
-package largest-smallest-unsorted-arr
+package largest_smallest_unsorted_arr
 
 import (
 	"testing"
